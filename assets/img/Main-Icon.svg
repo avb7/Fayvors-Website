@@ -1,0 +1,20 @@
+
+<svg width="188px" height="199px" viewBox="623 330 188 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="MainIcon" filter="url(#filter-1)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(627.000000, 332.000000)">
+        <polygon id="Path-2" fill="#FFFFFF" opacity="0.3" transform="translate(87.849472, 103.880745) rotate(164.000000) translate(-87.849472, -103.880745) " points="64.6339534 34.0042538 17.3596035 79.4308512 17.3029921 173.757236 111.558875 173.484064 158.395951 126.84185 64.6925168 126.523799"></polygon>
+        <polygon id="Path-2-Copy-3" fill="#FFFFFF" transform="translate(101.554747, 78.312966) rotate(164.000000) translate(-101.554747, -78.312966) " points="80.7587418 15.7189771 38.4113074 56.411231 38.3605961 140.906954 122.793165 140.662252 164.748898 98.8810727 80.8112018 98.5961693"></polygon>
+    </g>
+</svg>
