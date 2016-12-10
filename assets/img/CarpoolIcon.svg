@@ -1,0 +1,12 @@
+
+<svg width="69px" height="33px" viewBox="69 25 69 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.5665657%" id="linearGradient-1">
+            <stop stop-color="#C10E0E" offset="0%"></stop>
+            <stop stop-color="#FFC600" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M108.949519,57.2525639 L124.931785,25 C124.931785,25 120.5415,25 108.848534,25 C97.1555687,25 95.5536597,36.4089686 95.5536597,36.4089686 C95.5536597,36.4089686 79.7467111,38.8967859 74.711171,41.1395885 C69.675631,43.382391 69,50.780106 69,50.780106 L73.1919373,57.6362876 L93.8317261,57.6362876 C93.8317261,57.6362876 91.9121115,48.4524947 101.126565,48.4524947 C110.341018,48.4524947 108.949519,57.4319597 108.949519,57.4319597 L137.282851,56.9078009 L109.494629,56.137207" id="CarpoolIcon" stroke="none" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+</svg>

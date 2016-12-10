@@ -1,0 +1,16 @@
+
+<svg width="219px" height="219px" viewBox="0 0 219 219" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.5138139%" y1="0%" x2="54.5138121%" y2="105.246016%" id="linearGradient-1">
+            <stop stop-color="#FF0015" offset="0%"></stop>
+            <stop stop-color="#F901D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Group-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-2" fill="url(#linearGradient-1)" x="0" y="0" width="218.924833" height="218.924833" rx="50"></rect>
+        <polygon id="Path-2" fill="#FFFFFF" opacity="0.3" transform="translate(94.817971, 136.211133) rotate(164.000000) translate(-94.817971, -136.211133) " points="75.1707851 77.0749816 35.1627215 115.519301 35.1148116 195.347284 114.883129 195.1161 154.52113 155.64301 75.2203471 155.373845"></polygon>
+        <polygon id="Path-2-Copy-3" fill="#FFFFFF" transform="translate(109.068785, 112.732100) rotate(164.000000) translate(-109.068785, -112.732100) " points="91.4692214 59.7590972 55.6307836 94.1967634 55.5878668 165.705103 127.042759 165.498013 162.549702 130.138794 91.513618 129.897682"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+
+<svg width="40px" height="49px" viewBox="112 81 40 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.0623406%" id="linearGradient-1">
+            <stop stop-color="#208DDC" offset="0%"></stop>
+            <stop stop-color="#00E8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(112.000000, 81.000000)">
+        <path d="M0,10.0009266 C0,4.47756734 4.47207592,0 9.99050677,0 L30.0094932,0 C35.5270978,0 40,4.47928905 40,10.0009266 L40,34.9990734 C40,40.5224327 38.8353463,40.6741728 37.1551288,35.4068618 C37.1551288,35.4068618 32.5777905,13.1702521 20,13.1702521 C7.42220947,13.1702521 2.83739578,35.4284501 2.83739578,35.4284501 C1.27034536,40.7146712 0,40.5207109 0,34.9990734 L0,10.0009266 Z" id="Rectangle-3" fill="#F6CB00"></path>
+        <path d="M0,19.0102756 C0,13.4869164 4.47207592,9.00934906 9.99050677,9.00934906 L30.0094932,9.00934906 C35.5270978,9.00934906 40,13.4886381 40,19.0102756 L40,44.0084225 C40,49.5317817 38.8834013,49.6845087 37.2736023,44.3963446 C37.2736023,44.3963446 32.5777905,20.9277575 20,20.9277575 C7.42220947,20.9277575 2.72273442,44.4074591 2.72273442,44.4074591 C1.21900972,49.7104365 0,49.53006 0,44.0084225 L0,19.0102756 Z" id="Rectangle-3-Copy" fill="#F5CB00" transform="translate(20.000000, 28.639714) scale(1, -1) translate(-20.000000, -28.639714) "></path>
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="20.5" cy="24.5" r="14.5"></circle>
+    </g>
+</svg>

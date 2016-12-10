@@ -1,0 +1,12 @@
+
+<svg width="37px" height="51px" viewBox="35 72 37 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D3FF" offset="0%"></stop>
+            <stop stop-color="#00FFB0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M38.3333333,95.194125 C40.6817625,93.0805388 43.7655408,91.6287669 47.1241576,90.8388093 C49.0313305,90.3902361 38.1814236,72.3229941 53.0016614,72.0040509 C67.8218992,71.6851078 57.0488625,90.3047905 58.9807849,90.7133857 C62.5565285,91.4696439 65.854554,92.9632236 68.3333333,95.194125 C75.8333333,101.944125 68.3333333,122.194125 68.3333333,122.194125 C68.3333333,122.194125 58.1732166,112.947314 53.0016614,112.947314 C48.1732166,112.947314 38.3333333,122.194125 38.3333333,122.194125 C38.3333333,122.194125 30.8333333,101.944125 38.3333333,95.194125 Z" id="TutorsIcon" stroke="none" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+</svg>
