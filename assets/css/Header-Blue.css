@@ -1,10 +1,10 @@
 .header-blue {
-  background:url(../../assets/img/Fayvors-Cover.png) no-repeat center center fixed; 
+  background:url(../../assets/img/FayvorsCover.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color:linear-gradient(135deg, #172a74, #21a9af);
+  /*background-color:linear-gradient(135deg, #172a74, #21a9af);*/
   padding-bottom:50px;
   font-family:'Source Sans Pro', sans-serif;
 }
