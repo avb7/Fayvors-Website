@@ -1,5 +1,5 @@
 .header-blue {
-  background:url(../../assets/img/FayvorsCover.png) no-repeat center center fixed; 
+  background:url(../../assets/img/FayvorsCover.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -250,4 +250,3 @@
   transform:rotate(-19deg);
   opacity:0.2;
 }
-
